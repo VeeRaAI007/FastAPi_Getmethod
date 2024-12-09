@@ -1,0 +1,43 @@
+pwd---print work directory
+ls -- list all files
+cd -- change directory
+
+touch syllabus.txt
+start syllabus.txt
+
+clear -- clear history
+rm filename ---remove filename
+rm* remove all the files
+
+mkdir foldername - to create new folder.
+
+
+Git Local repo:
+work directory === staging ----- local Repository(commit)
+
+git init -- to add local repository.(Master Branch).
+ls -a to see all hidden files.
+git add filename.txt
+git rm --catched
+
+git commit -m 'filemoved'
+git log
+git diff
+git checkout filename.txt
+
+version control
+echo "# FastAPi_Getmethod" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/VeeRaAI007/FastAPi_Getmethod.git
+git push -u origin main
+
+
+
+
+
+
+
+
