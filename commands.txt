@@ -1,0 +1,11 @@
+run code:
+python -m uvicorn app:app_fast --reload
+
+
+swager link:http://127.0.0.1:8000/docs
+
+documention: https://fastapi.tiangolo.com/
+
+
+
+-
